@@ -1,5 +1,5 @@
 # Hotel Management System
-### A Desiseratum for every Hotel.
+A Desiseratum for every Hotel.
 
 ## Abstract
 Hotel Management System deals with the maintenance of a guest’s bill during one’s stay at the hotel and withal the allocation of rooms for them. This software will be used mainly by the receptionist who will be the first staff member a guest conventionally sees on ingress and additionally the last one afore one leaves. The receptionist can utilize this software to allocate rooms to the newly arrived guests based on their budget requisites. The room number will be then engendered and given to the guest along with a unique customer ID. Any restaurant, laundry, recreational activity bills will be accounted by the receptionist of particular facility. The entire bill can then be paid by the guest at the time one wishes to depart from the hotel.
